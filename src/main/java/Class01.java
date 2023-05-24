@@ -7,7 +7,8 @@ public class Class01 {
 //      Version 2 Calismalari
         int z = 3;
         System.out.println(z+y+x);
-
+//      Version 3 Calismalarina ait alan
+        System.out.println("V3 Kodlari...");
 
     }
 }
