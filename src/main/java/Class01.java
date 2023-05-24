@@ -9,6 +9,10 @@ public class Class01 {
         System.out.println(z+y+x);
 //      Version 3 Calismalarina ait alan
         System.out.println("V3 Kodlari...");
+//      Version 4
+        System.out.println("Version 4 kisminda bu dosyalar alinacak");
+//      Version 5
+        System.out.println("bura da v5 ait");
 
     }
 }
