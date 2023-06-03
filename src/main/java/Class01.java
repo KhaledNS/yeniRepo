@@ -14,5 +14,10 @@ public class Class01 {
 //      Version 5
         System.out.println("bura da v10 ait");
         // v11 kods
+        //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1        Version NEWWWWWW           !!!!!!!!!!!!!!!!!!!!!!
+
     }
+
+
+
 }
