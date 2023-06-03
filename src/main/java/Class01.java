@@ -17,6 +17,7 @@ public class Class01 {
         //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1        Version NEWWWWWW           !!!!!!!!!!!!!!!!!!!!!!
 //                                  GITHUB DEĞİŞİKLİK
         // cpet pet
+        // deneme 2
     }
 
 
